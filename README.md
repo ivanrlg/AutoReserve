@@ -1,4 +1,4 @@
-# BC-Auto-Reserve
+# Auto-Reserve
 
 ## Overview
 This repository contains the source code for "BC-Auto-Reserve," a streamlined solution for optimizing inventory reservations in Dynamics 365 Business Central. This project focuses on reserving only the available items in the Item Ledger Entries, ensuring a more accurate and efficient reservation process.
@@ -19,7 +19,7 @@ This repository contains the source code for "BC-Auto-Reserve," a streamlined so
 To implement targeted auto-reservation in Business Central, integrate the provided codeunit and procedures. This will allow you to reserve only the available items from the Item Ledger Entries, enhancing the efficiency of your inventory management.
 
 ## Video
-[Watch the video demonstration](https://github.com/ivanrlg/BC-Auto-Reserve/assets/21310111/8227a5f1-5560-4440-8af6-55eacbae5fb5)
+[Watch the video demonstration](https://github.com/ivanrlg/AutoReserve/assets/21310111/a6746dbe-eabd-4483-9670-66299829c88e)
 
 ## Contribution
 Contributions to this project are welcome! If you have suggestions for improvements or have found issues, please follow our Contribution Guidelines.
